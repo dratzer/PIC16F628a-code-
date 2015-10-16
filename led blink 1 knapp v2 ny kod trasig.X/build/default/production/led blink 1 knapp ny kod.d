@@ -1,0 +1,1 @@
+ build/default/production/led\ blink\ 1\ knapp\ ny\ kod.d  build/default/production/led\ blink\ 1\ knapp\ ny\ kod.p1:  led\ blink\ 1\ knapp\ ny\ kod.c

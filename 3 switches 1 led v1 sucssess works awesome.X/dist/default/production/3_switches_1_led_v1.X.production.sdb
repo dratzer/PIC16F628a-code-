@@ -1,0 +1,42 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F628A ]
+[d frameptr 6 ]
+"24 C:\Users\test\MPLABXProjects\3 switches 1 led v1.X\3 switches 1 led v1.c
+[v _main main `(i  1 e 2 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.35\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 0 0 ]
+"24
+[v _memcpyee memcpyee `(v  1 e 0 0 ]
+"743 C:\Program Files (x86)\Microchip\xc8\v1.35\include\pic16f628a.h
+[v _CMCON CMCON `VEuc  1 e 1 @31 ]
+"942
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1380
+[v _RA0 RA0 `VEb  1 e 0 @40 ]
+"1382
+[v _RA1 RA1 `VEb  1 e 0 @41 ]
+"1384
+[v _RA2 RA2 `VEb  1 e 0 @42 ]
+"1396
+[v _RB0 RB0 `VEb  1 e 0 @48 ]
+"1398
+[v _RB1 RB1 `VEb  1 e 0 @49 ]
+"1400
+[v _RB2 RB2 `VEb  1 e 0 @50 ]
+"1402
+[v _RB3 RB3 `VEb  1 e 0 @51 ]
+"1480
+[v _TRISA0 TRISA0 `VEb  1 e 0 @1064 ]
+"1482
+[v _TRISA1 TRISA1 `VEb  1 e 0 @1065 ]
+"24 C:\Users\test\MPLABXProjects\3 switches 1 led v1.X\3 switches 1 led v1.c
+[v _main main `(i  1 e 2 0 ]
+{
+"63
+} 0
